@@ -1,0 +1,17 @@
+def menu():
+    print("")
+    print("----- Controle de Estoque -----")
+    print("1 - Adiconar produto ao estoque")
+    print("2 - Alterar valor de um produto")
+    print("3 - Excluir um produto")
+    print("4 - Exibir histórico de alterações")
+    print("5 - Exibir Relatório de vendas")
+    print("6 - Buscar produto")
+    print("7 - Visualizar todos os produtos")
+    print("8 - Visualizar todos os produtos de uma categoria específica")
+    print("9 - Vender um produto")
+    print("10 - Sair")
+    print("----- Controle de Estoque -----")
+    print("")
+    option = int(input("Selecione uma opção: "))
+    return option
