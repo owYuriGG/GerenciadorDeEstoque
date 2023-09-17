@@ -14,10 +14,7 @@
 </p>
 
 ## **Descrição do Projeto** ##
-
-Aqui está registrado todas as atividades, tarefas e trabalhos desenvolvidos ao longo da cadeira "Laboratório de Algorítimos 1", ministrada pelo professor Fernando Emilio Putel
-
-*Cadeira do primeiro semestre do curso Sistemas de Informação da AMF*
+<p align="justify"> Escrever descrição, que ficará com texto justificado </p
 
 Aluno Yuri Garcia, turma SIS1A
 
