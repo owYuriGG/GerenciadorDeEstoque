@@ -8,9 +8,8 @@
 
 <p align="center">
   Sistemas de Informações - AMF
+  Segundo semestre - 2023
 </p>
-
-Primeiro semestre 2023
 
 ## **Objetivo do repositório** ##
 
