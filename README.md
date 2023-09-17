@@ -49,7 +49,8 @@
 
 
 
-> Status do Projeto: Concluido :heavy_check_mark:
+[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Yuri Garcia </sub>](https://github.com/owYuriGG) |
+| :---: |  
 
 
 Aluno Yuri Garcia, turma SIS1A
