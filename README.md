@@ -49,10 +49,8 @@
 
 
 
-<h2 align="center"> Desenvolvido por:</h2>
-Yuri Garcia
-
-Aluno do curso Sistemas de Informações na AMF
+<h2 align="left"> Desenvolvido por:</h2>
+Yuri Garcia  - aluno do curso Sistemas de Informações na Antonio Meneguetti Faculdade
 <h3>Minhas redes sociais:</h3>
 
 > Instagram: @yuri.garciia
