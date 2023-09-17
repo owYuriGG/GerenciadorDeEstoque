@@ -47,6 +47,11 @@
     <dd>Neste módulo está uma função utilitária para limpar o console.</dd>
 </dl>
 
+
+
+> Status do Projeto: Concluido :heavy_check_mark:
+
+
 Aluno Yuri Garcia, turma SIS1A
 
 
