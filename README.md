@@ -13,8 +13,8 @@
   Segundo semestre - 2023
 </p>
 
-## **Descrição do Projeto** ##
-<p align="justify"> Escrever descrição, que ficará com texto justificado </p
+## **Descrição do Repositório** ##
+<p align="justify"> Neste repositório, encontra-se meu trabalho avaliativo da primeira etapa do segundo semestre, onde criei um programa para controle de estoque, seguindo uma série de requisitos. </p
 
 Aluno Yuri Garcia, turma SIS1A
 
