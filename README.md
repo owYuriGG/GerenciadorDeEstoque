@@ -18,8 +18,10 @@
 
 
 ## <h2>**Especificações do Programa** </h2>
-<p align="justify">  A função principal do programa é controlar um estoque, contendo diversas funcionalidades, tais como:
+<p align="justify">  <h3>A função principal do programa é controlar um estoque, contendo diversas funcionalidades, tais como:</h3>
 </p>
+- Cadastro de conta com Google
+
 
 Aluno Yuri Garcia, turma SIS1A
 
