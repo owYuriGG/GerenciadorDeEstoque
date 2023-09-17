@@ -8,7 +8,6 @@
 
 <p align="center">
   Sistemas de Informações - AMF
-  Segundo semestre - 2023
 </p>
 <p align="center">
   Segundo semestre - 2023
