@@ -31,7 +31,7 @@
 <li>Vender um produto</li>
 </ol>
 
-<h2> **Arquitetura do Sistema** </h2>
+<h2> Arquitetura do Sistema </h2>
 <p align="justify"> O programa é subdividido em 6 arquivos diferentes, sendo 1 o arquivo central, o main, e os outros 5 são módulos do programa, divididos cada um em um grupo de funções organizadas </p>
 <h3>Módulos: </h3>
 <ul>
