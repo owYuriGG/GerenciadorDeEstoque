@@ -18,8 +18,9 @@
 
 
 ## <h2>**Especificações do Programa** </h2>
-<p align="justify">  <h3>A função principal do programa é controlar um estoque, contendo diversas funcionalidades, tais como:</h3>
+<p align="justify">  A função principal do programa é controlar um estoque, contendo diversas funcionalidades, tais como:
 </p>
+- Cadastro de conta com Google
 - Cadastro de conta com Google
 
 
