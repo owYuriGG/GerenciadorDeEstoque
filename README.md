@@ -56,4 +56,6 @@ Aluno do curso Sistemas de Informações na AMF
 <h3>Minhas redes sociais:</h3>
 
 > Instagram: @yuri.garciia
+
+
 > Discord: yuri.garciia
