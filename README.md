@@ -50,8 +50,10 @@
 
 
 <h2 align="center"> Desenvolvido por:</h2>
+Yuri Garcia
 
-Aluno Yuri Garcia, turma SIS1A
+Aluno do curso Sistemas de Informações na AMF
+<h3>Minhas redes sociais:</h3>
 
-
-> @yuri.garciia
+> Instagram: @yuri.garciia
+> Discord: yuri.garciia
