@@ -19,9 +19,16 @@
 
 ## <h2>**Especificações do Programa** </h2>
 <p align="justify">  A função principal do programa é controlar um estoque, contendo diversas funcionalidades, tais como:
+  1. Adicionar produtos ao estoque
+  1. Alterar o valor de um produto
+  1. Excluir um produto do estoque
+  1. Exibir histórico de alterações
+  1. Exibir relatório de vendas
+  1. Buscar um produto
+  1. Visualizar todos os produtos
+  1. Visualizar todos os produtos de uma categoria específica
+  1. Vender um produto
 </p>
-- Cadastro de conta com Google
-- Cadastro de conta com Google
 
 
 Aluno Yuri Garcia, turma SIS1A
