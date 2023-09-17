@@ -6,7 +6,9 @@
 
 
 
-Antonio Meneghetti Faculdade
+<p align="center">
+  Sistemas de Informações - AMF
+</p>
 
 Primeiro semestre 2023
 
