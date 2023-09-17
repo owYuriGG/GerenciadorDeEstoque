@@ -34,13 +34,18 @@
 <h2> Arquitetura do Sistema </h2>
 <p align="justify"> O programa é subdividido em 6 arquivos diferentes, sendo 1 o arquivo central, o main, e os outros 5 são módulos do programa, divididos cada um em um grupo de funções organizadas </p>
 <h3>Módulos: </h3>
-<ul>
-  <li>historic_module</li>
-  <li>menu_module</li>
-  <li>sales_module</li>
-  <li>stock_module</li>
-  <li>utilits</li>
-</ul>
+<dl>
+  <dt>historic_module</dt>
+    <dd>Neste módulo se concentra as funções relacionadas aos históricos.</dd>
+  <dt>menu_module</dt>
+    <dd>Neste módulo está o menu principal do programa.</dd>
+  <dt>sales_module</dt>
+    <dd>Neste módulo se encontra a função relacionada à venda de produtos.</dd>
+  <dt>stock_module</dt>
+    <dd>Neste módulo se encontra todas as funções referentes a manipulação de estoque.</dd>
+  <dt>utilits</dt>
+    <dd>Neste módulo está uma função utilitária para limpar o console.</dd>
+</dl>
 
 Aluno Yuri Garcia, turma SIS1A
 
