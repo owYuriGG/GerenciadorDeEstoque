@@ -17,7 +17,7 @@
 <p align="justify"> Neste repositório, encontra-se meu trabalho avaliativo da primeira etapa do segundo semestre, onde criei um programa para controle de estoque, seguindo uma série de requisitos. </p
 
 
-## **Especificações do Programa** ##
+### **Especificações do Programa** ###
 <p align="justify">  A função principal do programa é controlar um estoque, contendo diversas funcionalidades, tais como:
 </p>
 
