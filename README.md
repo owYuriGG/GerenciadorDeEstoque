@@ -14,7 +14,7 @@
 </p>
 
 ## **Descrição do Repositório** ##
-<p align="left"> Neste repositório, encontra-se meu trabalho avaliativo da primeira etapa do segundo semestre, onde criei um programa para controle de estoque, seguindo uma série de requisitos. </p
+<p align="justify"> Neste repositório, encontra-se meu trabalho avaliativo da primeira etapa do segundo semestre, onde criei um programa para controle de estoque, seguindo uma série de requisitos. </p
 
 Aluno Yuri Garcia, turma SIS1A
 
