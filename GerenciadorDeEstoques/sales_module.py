@@ -12,6 +12,7 @@ def sell_product(stock, sales_control): #Função para vender um produto
     if product not in stock:
         clear()
         print("Este produto não existem em seu estoque!")
+        return stock, sales_control
 
     #Se houver produto em estoque, ele verifica a quantia a ser vendida
     elif product in stock:
