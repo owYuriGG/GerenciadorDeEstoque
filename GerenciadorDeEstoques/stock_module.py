@@ -89,7 +89,7 @@ def change_product_value(stock, changes_historic):
     if product in stock:
         new_value = float(input("Digite o novo valor de venda: "))
         #Aqui o código adiciona o antigo valor ao histórico de preços
-        stock[product]['price_historic'] += [{stock[product]['price']}]
+        stock[product]['price_historic'] += [stock[product]['price']]
         #Aqui o código adiciona a alteração no histórico de alterações
         changes_historic.append(f"Valor do produto '{product}' alterado de {stock[product]['price']} para R$ {new_value}")
         #Atualização do preço do produto
