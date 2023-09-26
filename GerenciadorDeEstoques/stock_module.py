@@ -138,6 +138,7 @@ def see_products_by_category(stock):
             print(f"Produto: {product}")
             print(f"Preço de venda: R${stock[product]['price']}")
             print(f"Quantia em estoque: {stock[product]['amount']}")
+            print(f"Histórico de preços: {stock[product]['price_historic']}")
             print("----------")
             counter += 1
     if counter == 0:
