@@ -45,6 +45,7 @@ def search_product(stock, sales_control):
         print(f"Produto: {product}")
         print(f"Preço de venda: R${stock[product]['price']}")
         print(f"Quantia em estoque: {stock[product]['amount']}")
+        print(f"Histórico de preços: {stock[product]['price_historic']}")
         print(f"Categoria do produto: {stock[product]['category']}")
         #Criação do método para filtrar palavras para printar o histórico de vendas
         def key_word_verify(iten):
@@ -72,6 +73,7 @@ def see_products(stock):
         print(f"Produto: {product}")
         print(f"Preço de venda: R${stock[product]['price']}")
         print(f"Quantia em estoque: {stock[product]['amount']}")
+        print(f"Histórico de preços: {stock[product]['price_historic']}")
         print(f"Categoria: {stock[product]['category']}")
         print("----------")
 
