@@ -12,7 +12,7 @@ def add_product(stock, changes_historic):
         clear()
         print("Este produto já está cadastrado em estoque! Somando estoque...")
         #Aqui o código soma o estoque e já adiciona o mesmo ao histórico de alterações
-        changes_historic.append(f"{amount} foi somado ao estoque do produto '{product}'.")
+        changes_historic.append(f"Foi somado {amount} unidades ao estoque do produto '{product}'.")
         stock[product]['amount'] += amount
         return stock, changes_historic
     else:   
