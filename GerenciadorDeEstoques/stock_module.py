@@ -129,6 +129,7 @@ def see_products_by_category(stock):
     """
     category = str(input("Digite o nome da categoria que deseja listar: "))
     clear()
+    counter = 0
     print("----------")
     for product in stock:
         if stock[product]['category'] == category:
@@ -136,3 +137,7 @@ def see_products_by_category(stock):
             print(f"Preço de venda: R${stock[product]['price']}")
             print(f"Quantia em estoque: {stock[product]['amount']}")
             print("----------")
+            counter += 1
+    if counter == 0:
+        print("Não existe nenhum produto nesta categoria!")
+        print("----------")
