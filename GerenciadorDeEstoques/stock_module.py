@@ -12,7 +12,7 @@ def add_product(stock, changes_historic):
         clear()
         print("Este produto já está cadastrado em estoque! Somando estoque...")
         #Aqui o código soma o estoque e já adiciona o mesmo ao histórico de alterações
-        changes_historic.append(f"Foi somado {amount} unidades ao estoque do produto '{product}'.")
+        changes_historic.append(f"Alteração -> foi somado {amount} unidades ao estoque do produto '{product}'.")
         stock[product]['amount'] += amount
         return stock, changes_historic
     else:   
@@ -89,7 +89,7 @@ def change_product_value(stock, changes_historic):
     if product in stock:
         new_value = float(input("Digite o novo valor de venda: "))
         #Aqui o código adiciona a alteração no histórico de alterações
-        changes_historic.append(f"Valor do produto '{product}' alterado de {stock[product]['price']} para R$ {new_value}")
+        changes_historic.append(f"Alteração -> valor do produto '{product}' alterado de R${stock[product]['price']} para R${new_value}")
         #Atualização do preço do produto
         stock[product]['price'] = new_value
         #Aqui o código adiciona o antigo valor ao histórico de preços
@@ -116,7 +116,7 @@ def delete_product_from_stock(stock, changes_historic):
         stock.pop(product)
         clear()
         print(f"O produto '{product}' foi removido com sucesso do estoque!")
-        changes_historic.append(f"Produto '{product}' removido de estoque")
+        changes_historic.append(f"Altereação -> produto '{product}' removido de estoque")
         return stock, changes_historic
     else:
         clear()
