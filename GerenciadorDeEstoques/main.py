@@ -8,19 +8,19 @@ def main():
         'batata' : {
             'amount' : 500,
             'price' : 2.50,
-            'price_historic' : [2.50],
+            'price_historic' : ['R$2.50'],
             'category' : "comida" 
         },
         'cafe' : {
             'amount' : 50,
             'price' : 5,
-            'price_historic' : [2.50],
+            'price_historic' : ['R$2.50'],
             'category' : "comida" 
         },
         'refrigerante' : {
             'amount' : 20,
             'price' : 10,
-            'price_historic' : [10],
+            'price_historic' : ['R$10'],
             'category' : "refrigerante" 
         }
     }
